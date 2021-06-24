@@ -1,0 +1,1 @@
+alter table t_users modify city_id bigint;
